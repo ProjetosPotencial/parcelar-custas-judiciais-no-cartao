@@ -1,0 +1,10 @@
+LP Jurídico - Parcele Aqui (HTML puro, sem build)
+
+COMO VER: abra o index.html no navegador (duplo clique).
+
+COMO PUBLICAR (sem Next, sem build):
+- Vercel: New Project > "Other"/sem framework, ou arraste esta pasta. Sem comando de build.
+- Netlify: arraste a pasta em app.netlify.com/drop.
+- GitHub Pages / qualquer hospedagem estática: suba index.html + a pasta images/.
+
+Tudo é estático: index.html (CSS embutido) + pasta images/. Fontes via Google Fonts (CDN).
